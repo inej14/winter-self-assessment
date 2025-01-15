@@ -11,7 +11,7 @@
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules
+  - CommonJS modules h
   - ECMAScript modules
   - Module `node:module`
   - Caching in CJS and ESM
@@ -110,10 +110,10 @@
   - CRUD
   - DTO
 - Error handling and debugging
-  - `Error`
-  - `error.cause`
+  - `Error` u
+  - `error.cause`h
   - `error.code`
-  - `error.message`
+  - `error.message`u
   - `error.stack`
   - `Error.captureStackTrace`
   - How to avoid mixins
