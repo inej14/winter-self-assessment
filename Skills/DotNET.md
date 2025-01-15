@@ -4,7 +4,7 @@
   - Strengths and weaknesses of .NET
   - Stateful and stateless services
   - Asynchronous and synchronous programming
-  - Task-based asynchronous pattern
+  - Task-based asynchronous pattern h
   - Garbage collection in .NET
   - .NET runtime versions and support
   - I/O-bound, CPU-bound tasks
@@ -34,7 +34,7 @@
   - High-performance RPC with `gRPC`
   - Security features (authentication, authorization)
   - Cryptography and secure data handling
-  - Memory and resource management
+  - Memory and resource management h
   - Globalization and localization
 - Network and Protocols
   - HTTP/HTTPS support
@@ -67,7 +67,7 @@
   - Memory leak detection
 - Integration and Extensibility
   - Interoperability with native libraries
-  - P/Invoke for calling `C/C++` libraries
+  - P/Invoke for calling `C/C++` libraries h
   - COM interop
   - .NET for `WebAssembly`
   - Custom middleware development
