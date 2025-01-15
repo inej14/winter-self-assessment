@@ -4,26 +4,26 @@
   - Model
   - Modeling
   - Subject domain
-  - Algorithm
-  - Syntax
-  - Semantics
+  - Algorithm u
+  - Syntax u
+  - Semantics h
   - Abstraction
-  - Paradigm
-  - Programm
+  - Paradigm h
+  - Programm h
   - Programming paradigm
-  - Programming language
+  - Programming language u
   - Contract
   - Module
-  - Library
+  - Library u
   - Package
   - Component
-  - Framework
+  - Framework h
   - Platform
   - Source code
-  - Object code
-  - Machine code
+  - Object code h
+  - Machine code h
   - Microcode
-  - Software engineering
+  - Software engineering k
   - Decomposition
   - Control flow
   - Data flow
@@ -32,70 +32,70 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
+  - Value u
+  - Identifier u
+  - Variable u
+  - Constant u
   - Scalar
-  - Literal
-  - Expression
+  - Literal u
+  - Expression u
   - Heap
-  - Function
+  - Function u
   - Procedure
-  - Method
-  - Class
-  - Prototype
-  - Event
-  - Type
+  - Method u
+  - Class u
+  - Prototype u
+  - Event h
+  - Type k
   - Flag
   - Lexical scope
-  - Code block
+  - Code block h
   - Conditions
   - Loops
   - Assignment
   - Regular expression
-  - Interface
+  - Interface k
   - Namespaces
   - Call stack
-  - Naming conventions
-  - Coding conventions
-  - Camel case
-  - Snake case
-  - Kebab case
+  - Naming conventions h
+  - Coding conventions h
+  - Camel case u
+  - Snake case u
+  - Kebab case u
   - Trailing commas
   - Return early
   - Fail-fast
 - Types
-  - Primitive types
+  - Primitive types h
   - Reference types
   - Type systems
-  - Strong typing
+  - Strong typing h
   - Weak typing
   - Duck typing
-  - Static typing
-  - Dynamic typing
+  - Static typing h
+  - Dynamic typing h
   - Nominal typing
-  - Structural typing
+  - Structural typing h
   - Explicit typing
   - Type inference
   - Covariance
   - Contravariance
 - Functions
-  - Signature
-  - Argument
-  - Parameter
-  - Pure function
+  - Signature u
+  - Argument u
+  - Parameter u
+  - Pure function k
   - Lambda expression
   - Side effects
-  - Closure
+  - Closure k
   - Partial application
   - Currying
   - Higher order
-  - Recursion
+  - Recursion h
   - Tail call optimisation
-  - Callback
+  - Callback k
   - Listener
-  - Composition
+  - Composition h
   - Pipe
   - Memoize
   - Wrapper
@@ -105,31 +105,31 @@
   - Generator
   - Coroutine
 - Data structures
-  - Array
-  - Structure
-  - Record
+  - Array u
+  - Structure h
+  - Record h
   - Enum
-  - Instance
-  - Object
-  - Collection
-  - Set
+  - Instance h
+  - Object u
+  - Collection u
+  - Set u
   - Hash table
-  - Linked list
+  - Linked list u
   - Doubly list
   - Unrolled list
   - Circular list
-  - Queue
+  - Queue h
   - Stack
   - Deque
-  - Tree
+  - Tree h
   - Graph
-  - Iterator
+  - Iterator h
   - Mutable state
   - Immutable state
-  - Serialization
-  - String parsing
-  - JSON
-  - JSON5
+  - Serialization h
+  - String parsing h
+  - JSON h
+  - JSON5 h
   - YAML
 - Networking
   - DNS
@@ -138,42 +138,42 @@
   - IPv4
   - IPv6
   - NAT
-  - URL
-  - URN
+  - URL h
+  - URN h
   - URI
 - Process and tools
-  - Compiler
-  - Just-in-time compilation
-  - Ahead-of-time compilation
+  - Compiler h
+  - Just-in-time compilation h
+  - Ahead-of-time compilation h
   - Transpiler
   - Linter
   - Polyfill
   - Interpreter
   - Linker
-  - Dynamic linking
-  - Static linking
-  - Runtime
+  - Dynamic linking h
+  - Static linking h
+  - Runtime h
   - Virtual machine
   - Register-based VM
   - Stack-based VM
-  - Containerization
-  - Debugger
+  - Containerization h
+  - Debugger h
   - Tracing
   - Garbage collection
   - Refactoring
-  - Code review
-  - Exception
+  - Code review h
+  - Exception h
   - Unittesting
-  - git
-  - Github
+  - git u
+  - Github k
   - Docker
   - Kubernetes
-  - GCC
+  - GCC u
   - LLVM
 - Antipatterns
-  - Magic numbers
-  - Hard code
-  - Soft code
+  - Magic numbers h
+  - Hard code h
+  - Soft code h
   - Cryptic code
   - Improbability factor
   - Accidental complexity
@@ -181,19 +181,19 @@
   - Spaghetti
   - Silver bullet
   - Not invented here
-  - Dead code
-  - Unreachable code
-  - Duplicate code
+  - Dead code h
+  - Unreachable code h
+  - Duplicate code h
   - Premature optimization
   - Micro-optimization
   - Nested loops
   - Long method/function/procedure
   - Long inheritance
   - Large class/file
-  - Too many parameters
+  - Too many parameters h
   - Pass-through parameters
   - Accumulate and fire
-  - Use switch/case
+  - Use switch/case k
   - Temporary field
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments
@@ -217,8 +217,8 @@
   - Linux
   - Unix
   - BSD
-  - MacOS
-  - Windows
+  - MacOS h
+  - Windows u
   - Real-time OS
   - Embedded OS
 - Standards
