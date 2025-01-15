@@ -12,7 +12,7 @@
   - CQS
   - Modularity
   - Subsystems
-  - Directories
+  - Directories h
   - Leaking abstractions
   - Multiparadigm code
   - Contract programming
@@ -69,7 +69,7 @@
   - A software requirements specification (SRS)
   - Solution visions
   - Solution capabilities
-  - System design
+  - System design h
   - Process modelling
   - Data modelling
   - Solution components
