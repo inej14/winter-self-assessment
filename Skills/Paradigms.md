@@ -3,22 +3,22 @@
 - Theory
   - Procedural programming
   - Imperative programming
-  - Structured programming
-  - Non-structured programming
-  - Functional programming
-  - Prototype-based programming
-  - Object-oriented programming
-  - Object-based programming
+  - Structured programming h
+  - Non-structured programming h
+  - Functional programming h
+  - Prototype-based programming h
+  - Object-oriented programming h
+  - Object-based programming h
   - Generic programming
   - Concurrent computing
-  - Asynchronous programming
+  - Asynchronous programming h
   - Parallel programming
-  - Reactive programming
+  - Reactive programming h
   - Functional-reactive (FRP)
   - Automata-based programming
   - Domain-specific languages
   - Multi-paradigm programming
-  - Metaprogramming
+  - Metaprogramming h
   - Actor model
   - Lambda calculus
   - Black box
@@ -28,20 +28,20 @@
   - Class composition
 - OOP basics
   - Constructor
-  - Operator `new`
-  - Static method
-  - Method
-  - Async method
+  - Operator `new`k
+  - Static method k
+  - Method u
+  - Async method k
   - Getters, Setters
   - Public fields
   - Private fields
   - Field declarations
   - Inheritance
-  - Parent class
-  - Polymorphism
-  - Abstract class
+  - Parent class h
+  - Polymorphism h
+  - Abstract class h
   - Interface
-  - Encapsulation
+  - Encapsulation h
   - Hidden class
   - Object form
   - Instance
@@ -74,7 +74,7 @@
   - Proxy
   - Chain of Responsibility
   - Command
-  - Iterator
+  - Iterator h
   - State
   - Bridge
   - Builder
